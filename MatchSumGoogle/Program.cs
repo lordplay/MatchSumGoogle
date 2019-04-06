@@ -6,7 +6,8 @@ namespace MatchSumGoogle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Starter starter = new Starter();
         }
+
     }
 }
